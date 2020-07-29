@@ -1,0 +1,35 @@
+h1 {
+    background-color: blue;
+    }
+    
+    * {
+        border: solid; 
+    }
+    .origami {
+        background-color: sandybrown;
+        display : flex;
+        justify-content:space-between ;
+    }
+    
+    .bird{
+        display : flex;
+        justify-content: space-evenly;
+    }
+    
+    .flower{
+        display: flex;
+        justify-content: flex-end;
+    
+    
+    }
+    .buterrfly{
+        display: flex;
+        justify-content: flex-end;
+    
+    
+    }
+    .body{
+        background-color: 280,280,280;
+    }
+    
+    
